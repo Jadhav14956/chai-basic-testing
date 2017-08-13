@@ -5,4 +5,4 @@ Link :  https://medium.freecodecamp.org/simple-react-testing-d9e25ec87e2
 Description : using 
 1. Mocha as testing framework
 2. Chai as assertion tool
-3. react-addons-test-utils to generate, manipulat , test VirtualDOM  
+3. react-addons-test-utils to generate, manipulate , test VirtualDOM  
